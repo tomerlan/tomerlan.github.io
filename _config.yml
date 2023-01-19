@@ -21,18 +21,19 @@
 title: Tomer Lan
 email: tomer.landsberger@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
+  I've been having some thoughts.
+baseurl: "tomerlan" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: tomerlan87
+github_username:  tomerlan
+linkedin_username: tomer-landsberger-48127393
+scholar_username: Tomer Landsberger
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-scholar
 
 # Exclude from processing.
 # The following items will not be processed, by default.
