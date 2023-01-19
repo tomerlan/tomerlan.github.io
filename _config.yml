@@ -21,7 +21,7 @@
 title: Tomer Lan
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Ive been having some thoughts.
+  I've been having some thoughts.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -59,7 +59,7 @@ minima:
   site.author.email: tomer.landsberger@gmail.com
   date_format: "%b %-d, %Y"
   social_links:
-    - { platform: github,  user_url: "https://github.com/tomerlan" }
-    - { platform: twitter, user_url: "https://twitter.com/tomerlan87" }
     - { platform: linkedin, user_url: "https://www.linkedin.com/in/tomer-landsberger-48127393/" }
     - { platform: google_scholar, user_url: "https://scholar.google.co.il/citations?user=wswTSOoAAAAJ&hl=en" }
+    - { platform: twitter, user_url: "https://twitter.com/tomerlan87" }
+    - { platform: github,  user_url: "https://github.com/tomerlan" }
