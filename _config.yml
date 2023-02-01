@@ -30,7 +30,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #theme: minima
 plugins:
   - jekyll-remote-theme
+  - jekyll-relative-links
 remote_theme: jekyll/minima
+
+# google_analytics: 
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -51,6 +54,10 @@ remote_theme: jekyll/minima
 #   - vendor/gems/
 #   - vendor/ruby/
 
+header_pages:
+  - about.markdown
+  - title: Hebrew blog
+    url: https://gammeetz.com/ 
 author:
     name: Tomer Lan
     email: tomer.landsberger@gmail.com
