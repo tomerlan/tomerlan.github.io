@@ -33,7 +33,7 @@ plugins:
   - jekyll-relative-links
 remote_theme: jekyll/minima
 
-# google_analytics: 
+google_analytics: G-DMHRV5LZQL
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
