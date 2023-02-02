@@ -16,7 +16,7 @@ title: About
 		<p>I hold a PhD in biology and master’s degrees in physics and in philosophy.</p>
    </div>
    
-     <div style="flex: 1; padding: 10px;">
-    <img src="TL_portrait.jpg" alt="Pronouns: It/that thing" width="270" height="360">
+  <div style="flex: 1; padding: 10px; max-width: 100%;">
+    <img src="TL_portrait.jpg" alt="Pronouns: It/that thing" style="width: 100%; height: auto;">
   </div>
 </div>
