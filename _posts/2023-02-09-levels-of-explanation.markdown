@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Levels of explanation"
-date:   2023-02-09 22:19:23 +0200
+date:   2023-02-09 10:19:23 +0200
 categories: Philosophy
 author: "tomerlan"
 ---
