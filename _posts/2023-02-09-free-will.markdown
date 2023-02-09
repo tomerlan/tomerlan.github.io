@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Free will is not a philosophically problematic concept"
+date:   2023-02-09 22:19:23 +0200
+categories: Philosophy
+author: "tomerlan"
+---
+The concept of free will is often deemed problematic by philosophers due to its alleged conflict with determinism and randomness. If the universe is deterministic, our choices are predetermined, and our will is no more free than a rock falling due to gravity. On the other hand, if the universe is fundamentally random, then our choices are arbitrary, which sounds even worse. It’s hard to reconcile the concept of free will with physics.
+
+In my view, the fact that our choices are determined does not render the concept of free will meaningless. I understand free will as a type of psychological causality, where our choices can be explained through emotions, thoughts, experiences, and sensory input at the time of decision-making. This differs from actions performed involuntarily, like sleepwalking or breathing. This understanding of free will acknowledges the forces that influence our choices, but doesn't diminish our agency. If there is a random component to nature, then the same applies but on a statistical level. 
