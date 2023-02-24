@@ -25,9 +25,10 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-favicon: /tree_favicon.ico
+# favicon: tree_favicon.ico
 # Build settings
 #theme: minima
+
 plugins:
   - jekyll-remote-theme
   - jekyll-relative-links

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Different free speech laws should apply to facts and values"
+date:   2023-02-24 00:19:23 +0200
+categories: Sociaty
+author: "tomerlan"
+---
+One of the most controversial issues nowadays concerns limits of free speech and censorship. One side argues that censorship is crucial to control hate speech and misinformation, which may have devastating consequences. The other side argues that governments, media, and other powerful agents use censorship to oppress views and information that conflict with their narrative or undermine their power. Of course, both sides rais legitimate concerns and valid consideration. It is a matter of balance. But there is an important distinction that should be central in this argument, that no one is paying any attention to, and that is the distinction between facts and values.
+
+A statement can be classified as either factual or a value statement. It's important to distinguish between these two types of statements as they have different characteristics and implications. Factual statements are those that can be objectively true or false, which means it is verifiable by empirical, logical or mathematical investigation. Examples of factual statements include "the earth is round" and "1+2=4." On the other hand, value statements express beliefs about what is good, desirable, or important. Examples of value statements include "all humans are equal" and "lying is wrong." While some may argue that values can be objective, most would agree that they are subjective or at least culture-dependent. It's crucial to understand the distinction between facts and values, as they should be approached differently in discussions around censorship (that is a value statement).
+
+So while I do maintain that censorship of factual statements poses a greater threat than partisan misinformation, and should be mostly avoided, I consider value statements to be a different story. It's acceptable and sometimes advisable to limit value statements that clash with the values of the state or platform where they are being disseminated, for instance calls to violence. Of course, what are the values and what constitutes a violation of those values is up for debate.
+
+This fact-value distinction is not strictly categorical and there may be challenging cases. One complication is that some factual statements become ideologically charged. For instance, parts of the progressive left maintain that the opinion that humans divide into males and females is oppressive, while those that uphold this opinion believe that it is a neutral factual statement. Some other statements about sex, race and so on can be flammable, eventhough they are factual. The complexity of the issue should not be understated, but the fact-value distinction should be an important guiding principle in any censorship policy (value statement). 
