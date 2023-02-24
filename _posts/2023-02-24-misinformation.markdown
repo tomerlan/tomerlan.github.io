@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The term “fake news” and “misinformation” are the modern incarnation of “heresy”"
+title:  "The terms “fake news” and “misinformation” are the modern incarnation of “heresy”"
 date:   2023-02-24 00:19:23 +0200
 categories: Sociaty
 author: "tomerlan"
