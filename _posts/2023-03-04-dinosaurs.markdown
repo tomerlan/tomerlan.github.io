@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dinosaurs were bigger then we give them credit for"
+title:  "Dinosaurs were bigger than we give them credit for"
 date:   2023-03-04 22:19:23 +0200
 categories: Unimportant
 author: "tomerlan"
