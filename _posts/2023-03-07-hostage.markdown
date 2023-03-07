@@ -7,7 +7,7 @@ author: "tomerlan"
 ---
 I believe the following discussion pertains to game theory. I am not an expert on this topic, and I suspect the dilemma I shall pose or an equivalent one has been articulated before. However, who cares. This issue has been bugging me for years, particularly when encountering films featuring hostage situations.
 
-Consider a scenario where an outlaw has taken a hostage and is surrounded by the police. The question arises: what benefit does the hostage provide to the outlaw? If he were to harm the hostage, he would lose his only bargaining chip and likely face severe consequences and effectively lose the game. Therefore, it may seem logical to assume that the outlaw would not harm the hostage. In this case, why are the police so concerned?
+Consider a scenario where an outlaw has taken a hostage and is surrounded by the police. The question arises: what benefit does the hostage provide to the outlaw? If he were to harm the hostage, he would have lost his only bargaining chip, and likely face severe consequences, effectively losing the game. Therefore, it may seem logical to assume that the outlaw would not harm the hostage. In this case, why are the police so concerned?
 
 It is interesting that having additional hostages does not benefit the outlaw in this scenario. Suppose he has two hostages, shooting one of them will put him in the same losing position as he was in with just a single hostage. Therefore, the outlaw has no incentive to harm any of the hostages. This may be generalized to n hostages by induction. 
 
