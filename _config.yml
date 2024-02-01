@@ -1,0 +1,40 @@
+title: Tomer Landsberger
+description: My webpage
+baseurl: ""
+url: https://tomerlan.github.io
+
+#theme: cvless
+
+# site settings
+taglong: Hmmm
+tagshort:
+
+# author settings
+author:
+  name: Tomer Landsberger
+  email: tomer.landsberger@gmail.com
+photo: assets/files/avatar.png
+
+# social media links
+social:
+  github: tomerlan
+  wordpress: alsoofthetreeoflife
+  google_scholar: citations?user=wswTSOoAAAAJ&hl=en
+  linkedin: tomer-landsberger-48127393
+  substack: tomerlan
+  x: tomerlan87
+
+# build settings
+permalink: pretty
+exclude:
+  - docker-compose.yml
+  - LICENSE
+  - README.md
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  
+google_analytics: G-DMHRV5LZQL
+
+exclude: ['archive']

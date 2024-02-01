@@ -1,0 +1,11 @@
+/* Apply to all images that may be considered avatars, assumed to be singular on the page */
+img {
+  position: relative; /* Adjusts position relative to its normal position */
+  top: 350px; /* Moves the image 150 pixels down from where it would normally be */
+}
+
+/* Apply to all header 1 elements, which are often used for main titles */
+h1 {
+  position: relative; /* Adjusts position relative to its normal position */
+  top: 350px; /* Moves the header 150 pixels down from where it would normally be */
+}
