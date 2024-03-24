@@ -23,18 +23,18 @@ social:
   linkedin: tomer-landsberger-48127393
   substack: tomerlan
   x: tomerlan87
-
 # build settings
 permalink: pretty
 exclude:
   - docker-compose.yml
   - LICENSE
   - README.md
-
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
-  
-google_analytics: G-DMHRV5LZQL
-
+  - jekyll-analytics
+analytics:
+  provider: google
+  google:
+    tracking_id: G-DMHRV5LZQL
 exclude: ['archive']
