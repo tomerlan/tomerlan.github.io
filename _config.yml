@@ -6,7 +6,7 @@ url: https://tomerlan.github.io
 #theme: cvless
 
 # site settings
-taglong: Hmmm... Nope
+taglong: NOT going gentle into the good night
 tagshort:
 
 # author settings
@@ -23,6 +23,7 @@ social:
   linkedin: tomer-landsberger-48127393
   substack: tomerlan
   x: tomerlan87
+  sciborg: https://www.sciborg.xyz/
 # build settings
 permalink: pretty
 exclude:
