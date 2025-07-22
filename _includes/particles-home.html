@@ -6,26 +6,25 @@
     <h1 class="particles-title">{{ site.title }}</h1>
     <h1 class="particles-subtitle">{{ site.taglong }}</h1>
     <div class="nowrap">
-	  {% if site.social.google_scholar %}
-	  <a class="particles-icon" href="https://scholar.google.co.il/{{ site.social.google_scholar }}">{% include svg/google-scholar.svg %}</a>
-	  {% endif %}
-	  {% if site.social.linkedin %}
+      {% if site.social.google_scholar %}
+      <a class="particles-icon" href="https://scholar.google.co.il/{{ site.social.google_scholar }}">{% include svg/google-scholar.svg %}</a>
+      {% endif %}
+      {% if site.social.linkedin %}
       <a class="particles-icon" href="https://www.linkedin.com/in/{{ site.social.linkedin }}">{% include svg/linkedin.svg %}</a>
       {% endif %}
-	  {% if site.social.substack %}
-	  <a class="particles-icon" href="https://{{ site.social.substack }}.substack.com">{% include svg/substack.svg %}</a>
-	  {% endif %}
-	  {% if site.social.wordpress %}
-	  <a class="particles-icon" href="https://{{ site.social.wordpress }}.wordpress.com/">{% include svg/wordpress.svg %}</a>
-	  {% endif %}
+      {% if site.social.substack %}
+      <a class="particles-icon" href="https://{{ site.social.substack }}.substack.com">{% include svg/substack.svg %}</a>
+      {% endif %}
+      {% if site.social.wordpress %}
+      <a class="particles-icon" href="https://{{ site.social.wordpress }}.wordpress.com/">{% include svg/wordpress.svg %}</a>
+      {% endif %}
       {% if site.social.x %}
       <a class="particles-icon" href="https://twitter.com/{{ site.social.x }}">{% include svg/x.svg %}</a>
       {% endif %}
       {% if site.social.github %}
       <a class="particles-icon" href="https://github.com/{{ site.social.github }}">{% include svg/github.svg %}</a>
       {% endif %}
-
+      <a class="particles-icon" href="https://sciborg.xyz">{% include svg/sciborg.svg %}</a>
     </div>
-  </div>
   </div>
 </div>
