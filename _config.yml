@@ -23,6 +23,14 @@ social:
   substack: tomerlan
   x: tomerlan87
   sciborg: "https://www.sciborg.xyz/"
+  name: "Tomer Landsberger"
+  links:
+    - "https://github.com/tomerlan"
+    - "https://www.linkedin.com/in/tomer-landsberger-48127393/"
+    - "https://tomerlan.substack.com"
+    - "https://twitter.com/tomerlan87"
+    - "https://scholar.google.com/citations?user=wswTSOoAAAAJ&hl=en"
+    - "https://www.sciborg.xyz/"
 
 # --- build settings ---
 permalink: pretty
