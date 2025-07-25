@@ -4,7 +4,7 @@ baseurl: ""                       # keep empty unless the site lives in a sub-fo
 url: "https://tomerlan.github.io"
 
 # --- site settings ---
-tagline: "NOT going gentle into the good night"   # style line stays
+taglong: "NOT going gentle into the good night"   # style line stays
 logo: "/assets/files/og-image.jpg"                 # 1200×630 social preview; adjust path if needed
 photo: "assets/files/avatar.png"                 # head-shot used by theme
 
